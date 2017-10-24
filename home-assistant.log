@@ -1,0 +1,19 @@
+2017-10-23 17:42:56 WARNING (MainThread) [homeassistant.setup] Setup of sensor is taking over 10 seconds.
+2017-10-23 17:43:11 WARNING (MainThread) [homeassistant.setup] Setup of switch is taking over 10 seconds.
+2017-10-23 17:43:11 WARNING (MainThread) [homeassistant.setup] Setup of tts is taking over 10 seconds.
+2017-10-23 17:43:11 WARNING (MainThread) [homeassistant.components.sensor] Setup of platform yr is taking over 10 seconds.
+2017-10-23 17:43:25 WARNING (Thread-6) [netdisco.ssdp] Found malformed XML at http://192.168.22.8:9080: status=ok
+2017-10-23 18:24:40 WARNING (Thread-2) [homeassistant.components.switch.tplink] Could not read state for TP_Plug: 
+2017-10-23 20:02:28 ERROR (MainThread) [homeassistant.core] Timer got out of sync. Resetting
+2017-10-23 20:15:01 ERROR (MainThread) [homeassistant.core] Error doing job: Fatal read error on socket transport
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/asyncio/selector_events.py", line 723, in _read_ready
+    data = self._sock.recv(self.max_size)
+OSError: [Errno 113] No route to host
+2017-10-23 22:52:41 WARNING (Thread-5) [homeassistant.components.switch.tplink] Could not read state for TP_Plug: 
+2017-10-24 00:28:46 WARNING (Thread-4) [homeassistant.components.switch.tplink] Could not read state for TP_Plug: 
+2017-10-24 01:19:22 WARNING (Thread-3) [homeassistant.components.switch.tplink] Could not read state for TP_Plug: 
+2017-10-24 02:45:38 WARNING (Thread-6) [homeassistant.components.switch.tplink] Could not read state for TP_Plug: 
+2017-10-24 05:47:25 WARNING (Thread-2) [homeassistant.components.switch.tplink] Could not read state for TP_Plug: 
+2017-10-24 07:39:32 WARNING (Thread-6) [homeassistant.components.switch.tplink] Could not read state for TP_Plug: 
+2017-10-24 08:02:28 ERROR (MainThread) [homeassistant.core] Timer got out of sync. Resetting

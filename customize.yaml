@@ -1,0 +1,5 @@
+sensor.2800000614e3f6_temperature:
+  friendly_name: Sitting Room Temperature
+
+sun.sun:
+  friendly_name: Sun Outside

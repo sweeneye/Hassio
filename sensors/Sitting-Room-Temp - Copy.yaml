@@ -1,0 +1,6 @@
+#sensor:
+#  - platform: template
+#    sensors:
+#      volts:
+#        value_template: '{{ states.switch.TP_Plug.attributes.voltage }}'
+#        unit_of_measurement: 'V'
