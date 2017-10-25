@@ -2,8 +2,8 @@ homeassistant:
   # Name of the location where Home Assistant is running#
   name: Sweeney House v1
   # Location required to calculate the time the sun rises and sets
-  latitude: !secret lat
-  longitude: !secret longt
+  latitude: 53.2349
+  longitude: -6.6310
   # Impacts weather/sunrise data (altitude above sea level in meters)
   elevation: 55
   # metric for Metric, imperial for Imperial
